@@ -16,7 +16,8 @@
 → 나비야 개인용 모바일 홈페이지 제작 빌더 플랫폼 웹/하이브리드 앱 개발
 
 
-→ infobee(양방향 매칭 거래 서비스) 웹페이지 기능 기획 및 개발 (html5, Jquery, Java, Spring, MySql)
+→ infobee(양방향 매칭 거래 서비스) 웹페이지 기능 기획 및 개발 
+→ html5, Jquery, Java, Spring, MySql, CentOS
 
 - ` 📅 2015년 06월 ~ 20216년 06월`
 
