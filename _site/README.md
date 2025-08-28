@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
 # 기술개발서
 ## 1.1 Profile 
 - 문승환, 1989.02.07
@@ -48,6 +43,3 @@
 
 
 ## 주요 수행 프로젝트
-
-</body>
-</html>
